@@ -51,7 +51,8 @@ The goal of this task is to install and use a free VPN client to experience secu
 ## 📸 Screenshot
 > Screenshot included in the repo shows connected VPN status and IP address change.
 
-File: `vpn_connected_screenshot.png`
+File: `Screenshot 2025-07-04 214855.png`
+File: ``
 
 ---
 
