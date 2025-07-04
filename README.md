@@ -52,7 +52,7 @@ The goal of this task is to install and use a free VPN client to experience secu
 > Screenshot included in the repo shows connected VPN status and IP address change.
 
 File: `Screenshot 2025-07-04 214855.png`
-File: ``
+File: `Screenshot 2025-07-04 214657.png`
 
 ---
 
